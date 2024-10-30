@@ -1,0 +1,114 @@
+# Copyright (C) 2020 Alejandro del Río
+# This file is distributed under the same license as the Custom Post Type Multiroutes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Multiroutes 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-post-type-multiroutes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-07T12:12:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: cptmr\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Post Type Multiroutes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gives your custom post types a custom multiple routing compatible with WPML."
+msgstr ""
+
+#. Author of the plugin
+msgid "Alejandro del Río"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:93
+msgid "Any routes"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:94
+#: custom-post-type-multiroutes.php:184
+msgid "Route not set"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:95
+#: custom-post-type-multiroutes.php:178
+#: custom-post-type-multiroutes.php:348
+#: custom-post-type-multiroutes.php:362
+msgid "All routes"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:152
+#: custom-post-type-multiroutes.php:162
+msgid "Route"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:193
+msgid "Settings"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:203
+#: custom-post-type-multiroutes.php:204
+msgid "CPT Multiroutes"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:310
+msgid "Visible on:"
+msgstr ""
+
+#: custom-post-type-multiroutes.php:329
+msgid "Save this post to configure visibility."
+msgstr ""
+
+#: custom-post-type-multiroutes.php:354
+msgid "Visibility can be configured only on the <a href=\"%s\">original post.</a>"
+msgstr ""
+
+#: settings.php:52
+msgid "New route. Remember to press \"Save Routes\" before leaving."
+msgstr ""
+
+#: settings.php:57
+msgid "Custom Post Type Multiroutes Settings"
+msgstr ""
+
+#: settings.php:58
+msgid "Setup all the routes and translations for your custom post types (both single and archive pages)."
+msgstr ""
+
+#: settings.php:62
+msgid "Routes saved. Remember to <a href=\"options-permalink.php\">update your permalinks.</a>"
+msgstr ""
+
+#: settings.php:70
+msgid "It seems you have not defined any custom post types yet."
+msgstr ""
+
+#: settings.php:76
+msgid "Add Route"
+msgstr ""
+
+#: settings.php:79
+msgid "Rewrite this post type archive to these routes."
+msgstr ""
+
+#: settings.php:98
+msgid "Are you sure to remove this route? Route metadata will be deleted from %s posts."
+msgstr ""
+
+#: settings.php:105
+#: settings.php:136
+msgid "Remove Route"
+msgstr ""
+
+#: settings.php:107
+msgid "%s posts using this route."
+msgstr ""
+
+#: settings.php:119
+msgid "Save Routes"
+msgstr ""

@@ -1,0 +1,128 @@
+# Copyright (C) 2020 Alejandro del Río
+# This file is distributed under the same license as the Custom Post Type Multiroutes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Multiroutes 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-post-type-"
+"multiroutes\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-07T12:12:06+00:00\n"
+"PO-Revision-Date: 2020-01-07 13:20+0100\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: cptmr\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Post Type Multiroutes"
+msgstr "Custom Post Type Multiroutes"
+
+#. Description of the plugin
+msgid ""
+"Gives your custom post types a custom multiple routing compatible with WPML."
+msgstr "Asigna a tus custom post types múltiples rutas compatible con WPML."
+
+#. Author of the plugin
+msgid "Alejandro del Río"
+msgstr "Alejandro del Río"
+
+#: custom-post-type-multiroutes.php:93
+msgid "Any routes"
+msgstr "Cualquier ruta"
+
+#: custom-post-type-multiroutes.php:94 custom-post-type-multiroutes.php:184
+msgid "Route not set"
+msgstr "Ruta no definida"
+
+#: custom-post-type-multiroutes.php:95 custom-post-type-multiroutes.php:178
+#: custom-post-type-multiroutes.php:348 custom-post-type-multiroutes.php:362
+msgid "All routes"
+msgstr "Todas las rutas"
+
+#: custom-post-type-multiroutes.php:152 custom-post-type-multiroutes.php:162
+msgid "Route"
+msgstr "Ruta"
+
+#: custom-post-type-multiroutes.php:193
+msgid "Settings"
+msgstr "Configuración"
+
+#: custom-post-type-multiroutes.php:203 custom-post-type-multiroutes.php:204
+msgid "CPT Multiroutes"
+msgstr "CPT Multiroutes"
+
+#: custom-post-type-multiroutes.php:310
+msgid "Visible on:"
+msgstr "Visible en:"
+
+#: custom-post-type-multiroutes.php:329
+msgid "Save this post to configure visibility."
+msgstr "Guarda este post para configurar la visibilidad."
+
+#: custom-post-type-multiroutes.php:354
+msgid ""
+"Visibility can be configured only on the <a href=\"%s\">original post.</a>"
+msgstr ""
+"La visibilidad solo se puede configurar en el <a href=\"%s\">post original."
+"</a>"
+
+#: settings.php:52
+msgid "New route. Remember to press \"Save Routes\" before leaving."
+msgstr ""
+"Recuerda hacer click en \"Guardar Rutas\" antes de salir de esta página."
+
+#: settings.php:57
+msgid "Custom Post Type Multiroutes Settings"
+msgstr "Configuración Custom Post Type Multiroutes"
+
+#: settings.php:58
+msgid ""
+"Setup all the routes and translations for your custom post types (both "
+"single and archive pages)."
+msgstr ""
+"Configura todas las rutas y traducciones para tus custom post types (single "
+"y páginas de archivo)"
+
+#: settings.php:62
+msgid ""
+"Routes saved. Remember to <a href=\"options-permalink.php\">update your "
+"permalinks.</a>"
+msgstr ""
+"Rutas guardadas. Recuerda <a href=\"options-permalink.php\">actualizar los "
+"enlaces permanentes.</a>"
+
+#: settings.php:70
+msgid "It seems you have not defined any custom post types yet."
+msgstr "Parece que todavía no has definido ningún custom post type."
+
+#: settings.php:76
+msgid "Add Route"
+msgstr "Añadir Ruta"
+
+#: settings.php:79
+msgid "Rewrite this post type archive to these routes."
+msgstr "Reescribir la ruta de archivo de este post type a estas rutas."
+
+#: settings.php:98
+msgid ""
+"Are you sure to remove this route? Route metadata will be deleted from %s "
+"posts."
+msgstr ""
+"¿Estás seguro de borrar esta ruta? Los datos asociados se borrarán de %s "
+"posts."
+
+#: settings.php:105 settings.php:136
+msgid "Remove Route"
+msgstr "Borrar Ruta"
+
+#: settings.php:107
+msgid "%s posts using this route."
+msgstr "%s posts usan esta ruta."
+
+#: settings.php:119
+msgid "Save Routes"
+msgstr "Guardar Rutas"
